@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - Enemy
+  - EnemyWeapon
+  - TriggerZone
+  - SpawnPoint
+  - Room
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Unwalkable
+  - Enemy
+  - Player
+  - TriggerZone
+  - EnemyWeapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 3330223939
+    locked: 0
+  - name: Middle
+    uniqueID: 3854703977
+    locked: 0
+  - name: Front
+    uniqueID: 4183880145
+    locked: 0
